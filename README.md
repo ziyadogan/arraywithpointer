@@ -1,0 +1,2 @@
+# arraywithpointer
+array
